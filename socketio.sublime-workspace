@@ -1,0 +1,872 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-w",
+				"font-weight\tproperty"
+			],
+			[
+				"pro",
+				"project\tproperty"
+			],
+			[
+				"up",
+				"updateProject\tmethod"
+			],
+			[
+				"_",
+				"_projectService\tproperty"
+			],
+			[
+				"Pro",
+				"ProjectService\talias"
+			],
+			[
+				"co",
+				"component\tproperty"
+			],
+			[
+				"de",
+				"deleteProject\tmethod"
+			],
+			[
+				"p",
+				"_projectService\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"l",
+				"left\tfloat"
+			],
+			[
+				"g",
+				"getProject\tmethod"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"ge",
+				"getImageFile\tproperty"
+			],
+			[
+				"req",
+				"require\twarning"
+			],
+			[
+				"form",
+				"FormsModule\talias"
+			],
+			[
+				"ht",
+				"HttpClientModule\talias"
+			],
+			[
+				"Pr",
+				"ProjectService\talias"
+			],
+			[
+				"projects",
+				"projects\tproperty"
+			],
+			[
+				"s",
+				"services/"
+			],
+			[
+				"Htt",
+				"HttpHeaders\talias"
+			],
+			[
+				"file",
+				"filesToUpload\tproperty"
+			],
+			[
+				"pa",
+				"parse\tmethod"
+			],
+			[
+				"func",
+				"func\tFunction"
+			],
+			[
+				"funct",
+				"function\tkeyword"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"O",
+				"Observable\talias"
+			],
+			[
+				"st",
+				"stringify\tmethod"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"Proje",
+				"ProjectService\talias"
+			],
+			[
+				"For",
+				"FormsModule\talias"
+			],
+			[
+				"In",
+				"Injectable\talias"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"li",
+				"inline-block\tdisplay"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"bacgro",
+				"background\tproperty"
+			],
+			[
+				"app",
+				"appRoutingproviders\talias"
+			],
+			[
+				"Err",
+				"ErrorComponent\talias"
+			],
+			[
+				"conta",
+				"ContactComponent\talias"
+			],
+			[
+				"Abo",
+				"AboutComponent\talias"
+			],
+			[
+				"c",
+				"core\tdirectory"
+			],
+			[
+				"fi",
+				"findByIdAndUpdate\twarning"
+			],
+			[
+				"dele",
+				"deleteProyecto\tproperty"
+			],
+			[
+				"proje",
+				"projectRemove\twarning"
+			],
+			[
+				"projet",
+				"projectUdate\tparameter"
+			],
+			[
+				"se",
+				"send\twarning"
+			],
+			[
+				"sta",
+				"status\twarning"
+			],
+			[
+				"projec",
+				"projectId\twarning"
+			],
+			[
+				"find",
+				"findById\twarning"
+			],
+			[
+				"gert",
+				"getProjects\tproperty"
+			],
+			[
+				"get",
+				"getProject\tproperty"
+			],
+			[
+				"project",
+				"projectStored\tparameter"
+			],
+			[
+				"la",
+				"langs\twarning"
+			],
+			[
+				"models",
+				"models/"
+			],
+			[
+				"controller",
+				"controllers/"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"rea",
+				"ready\t$(document).ready"
+			],
+			[
+				"Ap",
+				"AppComponent"
+			],
+			[
+				"App",
+				"AppRoutingModule"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"con",
+				"confirm"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"E",
+				"EditComponent"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"P",
+				"Project"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"sa",
+				"save_project"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"H",
+				"HttpHeaders"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"Http",
+				"HttpHeaders"
+			],
+			[
+				"no",
+				"not-allowed\tcursor"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"HttpClientModule"
+			],
+			[
+				"mat",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"Ro",
+				"RouterModule"
+			],
+			[
+				"cre",
+				"CreateComponent"
+			],
+			[
+				"a",
+				"AboutComponent"
+			],
+			[
+				"ex",
+				"extSplit"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"f",
+				"findByIdAndUpdate"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"por",
+				"port"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"us",
+				"usuario_guardado"
+			],
+			[
+				"pe",
+				"_peticionesService"
+			],
+			[
+				"ne",
+				"new_user"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"Co",
+				"ContactoUsuario"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"Ex",
+				"ExternoComponent"
+			],
+			[
+				"zapa",
+				"ZapatillaService"
+			],
+			[
+				"Za",
+				"ZapatillaService"
+			],
+			[
+				"za",
+				"zapatillas"
+			],
+			[
+				"_rot",
+				"_router"
+			],
+			[
+				"ho",
+				"HomeComponent"
+			],
+			[
+				"vi",
+				"VideojuegoComponent"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"zapatilla",
+				"zapatilla"
+			],
+			[
+				"COmpo",
+				"Componente"
+			],
+			[
+				"set",
+				"setColor"
+			],
+			[
+				"Ca",
+				"CamisetaBase"
+			],
+			[
+				"cam",
+				"cambiaColor"
+			],
+			[
+				"le",
+				"letrasonumeros"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Angular CLI: generate component"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pag",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Cont",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+			"cls",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO"
+	],
+	"file_history":
+	[
+		"/home/neri-laredo/Documentos/Documento sin título.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/assets/css/styles.css",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/index.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/create/create.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/services/project.service.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/create/create.component.html",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/create/create.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/create/create.component.html",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/services/project.service.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/app.routing.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/routes/project.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/controllers/project.js",
+		"/home/neri-laredo/Descargas/backend/controllers/project.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/services/upload.service.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/assets/css/styles.css",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/package.json",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/services/upload.service.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/package.json",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/index.js",
+		"/media/neri-laredo/Laredo II/DataLin/Documentos/Curso GitHub/Comandos Git.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/app.module.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/models/project.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/services/global.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/app.module.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/services/global.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/models/project.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/README.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/app.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/about/about.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/about/about.component.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/about/about.component.ts",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/components/about/about.component.html",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/app.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/angular.json",
+		"/home/neri-laredo/Descargas/proyecto-angular/src/app/app.routing.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/app.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/models/project.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/package-lock.json",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/backend/controllers/project.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/backend/models/project.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/Commands.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/backend/Install Packages.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/backend/calculadora.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/index.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/header/header.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/app.component.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/header/header.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/app.module.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/app.component.css",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/assets/js/script.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/app/app.component.ts",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/assets/css/style.css",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/assets/js/plugins/ekko_lightbox.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/Angular/src/assets/js/plugins/scrollUp.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/js/04.evento-teclado.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/js/02.escribir-en-tablero.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/js/03.operaciones-matematicas.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/js/01.acceder-con-click.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/js/codigo.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/index.html",
+		"/home/neri-laredo/Descargas/POO/EJERCICIO CALCULADORA/index.html",
+		"/home/neri-laredo/Descargas/POO/EJERCICIO CALCULADORA/js/codigo.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/calculadora/css/estilo.css",
+		"/home/neri-laredo/Descargas/POO/EJERCICIO CALCULADORA/js/01.acceder-con-click.js",
+		"/home/neri-laredo/Descargas/POO/EJERCICIO CALCULADORA/css/estilo.css",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/index.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/js/02.objetos-propiedades-metodos.js",
+		"/home/neri-laredo/Descargas/POO/js/03.ejercicio-de-logica.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/POO/js/01.clases.js",
+		"/home/neri-laredo/Descargas/POO/js/02.Objetos-propiedades-metodos.js",
+		"/home/neri-laredo/Descargas/POO/js/01.clases.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/index.html",
+		"/home/neri-laredo/Descargas/JavaScript/index.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/08.numero-aleatorio.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/07.intervalos-y-retardos-de-tiempo.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/08.numeros-aleatorios.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/06.eventos.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/07.intervalos-y-retardos-de-tiempo.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/05.ciclos.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/06.eventos.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/05.ciclos.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/03.funciones.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/04.condiciones-y-cambios.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/04.condiciones-y-cambios.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/03.funciones.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/02.variables.js",
+		"/home/neri-laredo/Descargas/JavaScript/js/02.variables.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript ECMAScript Angular 9 React NodeJS/JavaScript/js/01.sintaxis.js",
+		"/home/neri-laredo/Documentos/Curso GitHub/Comandos Git.txt",
+		"/home/neri-laredo/Documentos/Curso GitHub/Comandos Git",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/clima/src/App.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/clima/src/components/Clima.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/citas/src/App.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/citas/public/index.html",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/citas/src/components/Formulario.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/citas/src/components/Cita.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/citas/src/index.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/cotizador/src/components/Formulario.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/cotizador/public/index.html",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/cotizador/src/index.js",
+		"/home/neri-laredo/Documentos/Crear archivo war",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/cotizador/src/App.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/RepasoJS/js/app.js",
+		"/home/neri-laredo/Documentos/Curso React La guia completa Hooks Context Redux MERN +15 Apps/RepasoJS/index.html",
+		"/home/neri-laredo/Descargas/inclinacion.ino",
+		"/home/neri-laredo/.cache/.fr-jUPcVB/curso pagina web gratis/index.html",
+		"/home/neri-laredo/.cache/.fr-Ezh1oF/curso pagina web gratis/index.html",
+		"/home/neri-laredo/.cache/.fr-B4NWqy/curso pagina web gratis/estilos/estilos.css",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/Proyecto-JS/index.html",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/Proyecto-JS/css/styles.css",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/assets/css/styles.css",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.html",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.ts",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/edit/edit.component.ts",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.css",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/app.component.html",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/contact/contact.component.ts",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/angular.json",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/detail/detail.component.html",
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/package.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"src=\"img",
+			"href=\"img",
+			"href",
+			"hrif",
+			"css",
+			"-->\n",
+			"css",
+			"  \n",
+			"fechas",
+			"3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"assets/img",
+			"href=\"assets/img"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "socketio.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"POO/js/01.clases.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
