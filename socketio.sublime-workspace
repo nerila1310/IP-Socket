@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"div",
+				"div_msgs\tlocal var"
+			],
+			[
+				"docu",
+				"document\tvar"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"ser",
+				"server\tvar"
+			],
+			[
 				"font-w",
 				"font-weight\tproperty"
 			],
@@ -46,10 +74,6 @@
 			[
 				"g",
 				"getProject\tmethod"
-			],
-			[
-				"margin",
-				"margin-right\tproperty"
 			],
 			[
 				"margin-",
@@ -246,10 +270,6 @@
 			[
 				"gert",
 				"getProjects\tproperty"
-			],
-			[
-				"get",
-				"getProject\tproperty"
 			],
 			[
 				"project",
@@ -494,26 +514,6 @@
 			[
 				"COmpo",
 				"Componente"
-			],
-			[
-				"set",
-				"setColor"
-			],
-			[
-				"Ca",
-				"CamisetaBase"
-			],
-			[
-				"cam",
-				"cambiaColor"
-			],
-			[
-				"le",
-				"letrasonumeros"
-			],
-			[
-				"fl",
-				"float\tproperty"
 			]
 		]
 	},
@@ -587,11 +587,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO"
 	],
 	"file_history":
 	[
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO/client/main.js",
+		"/home/neri-laredo/Escritorio/desarrollo/groceries/README.md",
 		"/home/neri-laredo/Documentos/Documento sin título.txt",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C003%5D/Memoria interna/Musica/Alejandro Filio Se trata de sentir (2014)/Trovando Solo Para Conocedores.url",
+		"/media/neri-laredo/Laredo II/Respaldo Orantes/ACADEMICO/000_UTM/000_JEFATURA/IDEAS MECA.txt",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO/client/index.html",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO/server/index.js",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO/package.json",
+		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/SocketIO/socketio.sublime-project",
 		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/detail/detail.component.ts",
 		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/app/components/detail/detail.component.html",
 		"/home/neri-laredo/Documentos/Curso Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/MEAN/proyecto-angular/src/assets/css/styles.css",
@@ -710,15 +717,7 @@
 		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/Proyecto-JS/index.html",
 		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/Proyecto-JS/css/styles.css",
 		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/assets/css/styles.css",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.html",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.ts",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/edit/edit.component.ts",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.css",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/app.component.html",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/contact/contact.component.ts",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/angular.json",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/detail/detail.component.html",
-		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/package.json"
+		"/home/neri-laredo/Documentos/Master en JavaScript Aprender JS jQuery Angular 9 NodeJS/proyectoAngular/src/app/components/create/create.component.html"
 	],
 	"find":
 	{
